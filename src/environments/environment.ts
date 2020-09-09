@@ -2,11 +2,11 @@ export const environment = {
   production: false,
   serverUrl: 'https://admin.taqeem.app/api',
 <<<<<<< HEAD
-  appUrl: 'https://awesome-pasteur-37789a.netlify.app/',
+  appUrl: 'https://www.taqeem.app/',
 =======
-  appUrl: 'https://awesome-pasteur-37789a.netlify.app',
+  appUrl: 'https://www.taqeem.app',
 >>>>>>> 2cb9efdad51e3c94e643cb4f42c66986b35fccc2
-  appImageUrl: 'https://awesome-pasteur-37789a.netlify.app/assets/img/nearme.png',
+  appImageUrl: 'https://www.taqeem.app/assets/img/nearme.png',
   appId: 'YOUR_APP_ID',
   fbId: 'YOUR_FB_ID',
   googleMapsApiKey: 'AIzaSyCJrY4l3UQlUfdkiEunAGP9EcxBY9HuAE0',
