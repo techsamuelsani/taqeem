@@ -171,8 +171,8 @@
       },
       "cordova-plugin-nativeaudio": {},
       "cordova-admob-plus": {
-        "APP_ID_ANDROID": "ca-app-pub-xxxxxxxxxxxxxxxxxxxxxxx",
-        "APP_ID_IOS": "ca-app-pub-xxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "APP_ID_ANDROID": "ca-app-pub-8220261400032592~6114283996",
+        "APP_ID_IOS": "ca-app-pub-8220261400032592~6114283996",
         "PLAY_SERVICES_VERSION": "17.1.0"
       }
     },
