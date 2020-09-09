@@ -1,11 +1,7 @@
 export const environment = {
   production: false,
   serverUrl: 'https://admin.taqeem.app/api',
-<<<<<<< HEAD
   appUrl: 'https://www.taqeem.app/',
-=======
-  appUrl: 'https://www.taqeem.app',
->>>>>>> 2cb9efdad51e3c94e643cb4f42c66986b35fccc2
   appImageUrl: 'https://www.taqeem.app/assets/img/nearme.png',
   appId: 'YOUR_APP_ID',
   fbId: 'YOUR_FB_ID',
