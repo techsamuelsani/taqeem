@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.quanlabs.nearme5" version="6.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Nearme</name>
+    <name>تقييم</name>
     <description>Ionic 5 Starter for location based apps</description>
-    <author email="info@quanlabs.com" href="https://quanlabs.com/">Quanlabs</author>
+    <author email="mazenfawzy8877@gmail.com" href="https://taqeem.app/">Jossy Soft</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-navigation href="*" />
@@ -24,7 +24,7 @@
     <preference name="SplashScreenDelay" value="3000" />
     <preference name="UseSwiftLanguageVersion" value="5" />
     <preference name="ParseAppId" value="YOUR_APP_ID" />
-    <preference name="ParseServerUrl" value="YOUR_SERVER_URL" />
+    <preference name="ParseServerUrl" value="https://admin.taqeem.app/api/" />
     <preference name="ParseMultiNotifications" value="true" />
     <preference name="ParseNotificationIcon" value="androidnotificationicon" />
     <preference name="GradlePluginGoogleServicesEnabled" value="true" />

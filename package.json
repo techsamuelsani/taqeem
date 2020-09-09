@@ -162,7 +162,7 @@
       },
       "onesignal-cordova-plugin": {},
       "cordova-plugin-googleplus": {
-        "REVERSED_CLIENT_ID": "YOUR_REVERSED_CLIENT_ID",
+        "REVERSED_CLIENT_ID": "apps.googleusercontent.com.911032271892-or75g7ekhn9bb588ib7uef4u600eaukj",
         "PLAY_SERVICES_VERSION": "15.0.1"
       },
       "cordova.plugins.diagnostic": {

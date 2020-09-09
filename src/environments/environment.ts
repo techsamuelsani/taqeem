@@ -1,8 +1,8 @@
 export const environment = {
   production: false,
-  serverUrl: 'http://68.183.74.186/api',
-  appUrl: 'https://trynearme.app',
-  appImageUrl: 'https://trynearme.app/assets/img/nearme.png',
+  serverUrl: 'https://admin.taqeem.app/api',
+  appUrl: 'https://awesome-pasteur-37789a.netlify.app/',
+  appImageUrl: 'https://awesome-pasteur-37789a.netlify.app/assets/img/nearme.png',
   appId: 'YOUR_APP_ID',
   fbId: 'YOUR_FB_ID',
   googleMapsApiKey: 'YOUR_GOOGLE_MAPS_API_KEY',
