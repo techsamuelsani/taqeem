@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.quanlabs.nearme5" version="6.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>تقييم</name>
+    <name>Taqeem</name>
     <description>Ionic 5 Starter for location based apps</description>
     <author email="mazenfawzy8877@gmail.com" href="https://taqeem.app/">Jossy Soft</author>
     <content src="index.html" />
